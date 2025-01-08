@@ -18,5 +18,5 @@ This is a simple React front end script to stream movies and tv shows for free u
 
 # Screenshots
 
-![streaming-screenshot-1-2022-12-31]("C:\Users\25193\Desktop\image move.jpg")
+![streaming-screenshot-1-2022-12-31](https://user-images.githubusercontent.com/73644573/221389673-a2efefcd-7177-4711-8a41-afd7e1c68f52.png)")
 ![streaming-screenshot-2-2022-12-31](https://user-images.githubusercontent.com/73644573/221389839-a41ff451-fd8e-499c-aaa9-95acdc09f051.png)
